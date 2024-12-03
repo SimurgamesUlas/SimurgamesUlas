@@ -17,8 +17,8 @@ Merhaba! Ben Ulaş Demir, yeniliklere açık, yaratıcı ve tutkuyla çalışan 
 
 ## 📈 İstatistiklerim  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ulas&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ulas&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SimurgamesUlas&show_icons=true&theme=radical&include_all_commits=true&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SimurgamesUlas&layout=compact&theme=radical&langs_count=3&hide=html,css,python)  
 
 ---
 
