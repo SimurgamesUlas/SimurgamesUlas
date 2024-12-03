@@ -1,6 +1,6 @@
-# 🌟 Ulaş Demir | Game Developer 🌟  
+# 🎮 Ulaş Demir | Game Developer 🎮  
 
-Merhaba! Ben Ulaş Demir, yeniliklere açık, yaratıcı ve tutkuyla çalışan bir yazılım geliştiricisiyim. 🎨👨‍💻  
+Merhaba! Ben Ulaş Demir, yeniliklere açık, yaratıcı ve tutkuyla çalışan bir yazılım geliştiricisiyim. 👨‍💻  
 **Bilgisayar Programcılığı mezunuyum** ve çeşitli teknolojilerle harika projeler üretmeyi seviyorum.  
 
 ---
